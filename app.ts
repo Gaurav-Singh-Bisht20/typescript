@@ -9,7 +9,7 @@ function getProduct(id):Product{
   return {
     id: id,
     name: `Awesome Gadget ${id}`,
-    price: 99
+    price: 9
   }
 }
 
